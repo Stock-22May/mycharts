@@ -2,47 +2,47 @@ apiVersion: v1
 entries:
   loyaltylevelchart:
   - apiVersion: v1
-    created: 2018-05-22T13:16:34.209129738-07:00
+    created: 2018-05-22T13:33:03.086289923-07:00
     description: A Helm chart for Kubernetes
     digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
     name: loyaltylevelchart
     urls:
-    - https://stock-22may.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
+    - https://salahtrade.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
     version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-05-22T13:16:34.209441116-07:00
+    created: 2018-05-22T13:33:03.086514803-07:00
     description: A Helm chart for Kubernetes
     digest: 09f6125fccf2e445e9c59e080fbb5ea2157d2adb446b44e8d0059c9b9a16a48b
     name: notificationchart
     urls:
-    - https://stock-22may.github.io/mycharts/notificationchart-0.1.0.tgz
+    - https://salahtrade.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
   portfoliochart:
   - apiVersion: v1
-    created: 2018-05-22T13:16:34.209908146-07:00
+    created: 2018-05-22T13:33:03.08698028-07:00
     description: A Helm chart for Kubernetes
     digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
     name: portfoliochart
     urls:
-    - https://stock-22may.github.io/mycharts/portfoliochart-0.1.0.tgz
+    - https://salahtrade.github.io/mycharts/portfoliochart-0.1.0.tgz
     version: 0.1.0
   stockquotechart:
   - apiVersion: v1
-    created: 2018-05-22T13:16:34.210183031-07:00
+    created: 2018-05-22T13:33:03.08722918-07:00
     description: A Helm chart for Kubernetes
     digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
     name: stockquotechart
     urls:
-    - https://stock-22may.github.io/mycharts/stockquotechart-0.1.0.tgz
+    - https://salahtrade.github.io/mycharts/stockquotechart-0.1.0.tgz
     version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-05-22T13:16:34.210876684-07:00
+    created: 2018-05-22T13:33:03.087687842-07:00
     description: A Helm chart for Kubernetes
     digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
     name: traderchart
     urls:
-    - https://stock-22may.github.io/mycharts/traderchart-0.1.0.tgz
+    - https://salahtrade.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-05-22T13:16:34.20863078-07:00
+generated: 2018-05-22T13:33:03.085940667-07:00
