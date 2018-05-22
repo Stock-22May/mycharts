@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   loyaltylevelchart:
   - apiVersion: v1
-    created: 2018-05-22T13:37:09.710402395-07:00
+    created: 2018-05-22T13:37:57.515164166-07:00
     description: A Helm chart for Kubernetes
     digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
     name: loyaltylevelchart
@@ -11,7 +11,7 @@ entries:
     version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-05-22T13:37:09.710678335-07:00
+    created: 2018-05-22T13:37:57.515562766-07:00
     description: A Helm chart for Kubernetes
     digest: 09f6125fccf2e445e9c59e080fbb5ea2157d2adb446b44e8d0059c9b9a16a48b
     name: notificationchart
@@ -20,7 +20,7 @@ entries:
     version: 0.1.0
   portfoliochart:
   - apiVersion: v1
-    created: 2018-05-22T13:37:09.711131143-07:00
+    created: 2018-05-22T13:37:57.516355894-07:00
     description: A Helm chart for Kubernetes
     digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
     name: portfoliochart
@@ -29,7 +29,7 @@ entries:
     version: 0.1.0
   stockquotechart:
   - apiVersion: v1
-    created: 2018-05-22T13:37:09.711369246-07:00
+    created: 2018-05-22T13:37:57.517343389-07:00
     description: A Helm chart for Kubernetes
     digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
     name: stockquotechart
@@ -38,11 +38,11 @@ entries:
     version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-05-22T13:37:09.711839713-07:00
+    created: 2018-05-22T13:37:57.517875345-07:00
     description: A Helm chart for Kubernetes
     digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
     name: traderchart
     urls:
     - https://salahtrade.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-05-22T13:37:09.709816731-07:00
+generated: 2018-05-22T13:37:57.514346197-07:00
